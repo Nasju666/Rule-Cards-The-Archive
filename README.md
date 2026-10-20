@@ -5,5 +5,5 @@ Recover three cards that rewrite the rules of the world, then escape the Archive
 ```text
 download zip or clone the file.
 extract
-execute RuleCards.exe
+execute RuleCards.exe inside the folder
 ```
